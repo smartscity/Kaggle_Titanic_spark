@@ -193,7 +193,7 @@ public class RandomForestsKaggle {
         predTest = predTest.withColumnRenamed( "prediction", "Survived" );
         predTest.select( "PassengerId", "Survived" ).show( 30 );
         // Saving to a File
-        predTest.select("PassengerId", "Survived").write().mode("overwrite").option("header", true).csv("spark_2.0.0");
+        predTest.select("PassengerId", "Survived").write().mode("overwrite").option("header", true).csv("result_spark_2.0.0");
 
     }
 
