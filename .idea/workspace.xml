@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="55d6d29d-1090-423e-8780-b431868224f7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spark_2.0.0/target/" />
+    <ignored path="$PROJECT_DIR$/spark_2.4.0/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark_2.0.0/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomForestsKaggle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark_2.0.0/src/main/java/com/smartscity/spark/RandomForestsKaggle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="15" column="64" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="64" />
+              <folding>
+                <element signature="method#processData#0;class#RandomForestsKaggle#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="26" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="26" />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark_2.4.0/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomForestsKaggle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spark_2.4.0/src/main/java/com/smartscity/spark/RandomForestsKaggle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="116" column="55" selection-start-line="116" selection-start-column="55" selection-end-line="116" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#processData#0;class#RandomForestsKaggle#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.8978765219058574</find>
+      <find>2.4.0</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2.0.0</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/cas-4.2.1" value="127101248473000" />
+        <entry key="$USER_HOME$/Desktop/dashboard" value="1507541397000" />
+        <entry key="$USER_HOME$/Desktop/settlement" value="1496776484000" />
+        <entry key="$USER_HOME$/Documents/cas/trunk" value="128412569064000" />
+        <entry key="$USER_HOME$/Downloads/demo" value="1499572446000" />
+        <entry key="$USER_HOME$/Downloads/ratelimit" value="1520272796000" />
+        <entry key="$USER_HOME$/Workspaces/cas_workspace/cas-4.2.1" value="126989445023000" />
+        <entry key="$USER_HOME$/Workspaces/usermanagement_spaces/usermanagement" value="1480644338000" />
+        <entry key="$PROJECT_DIR$/../../activity" value="1486941538000" />
+        <entry key="$PROJECT_DIR$/../../apereo_cas" value="132715509747000" />
+        <entry key="$PROJECT_DIR$/../../apereo_idea_cas" value="200533943945000" />
+        <entry key="$PROJECT_DIR$/../../cas" value="136322339982000" />
+        <entry key="$PROJECT_DIR$/../../cas-sso" value="135911598980000" />
+        <entry key="$PROJECT_DIR$/../../cas_5" value="216579887999000" />
+        <entry key="$PROJECT_DIR$/../../spring-cloud/jhipster_work" value="3001445492000" />
+        <entry key="$PROJECT_DIR$/../../spring-clould/jhipster_demo" value="2964596332000" />
+        <entry key="$PROJECT_DIR$/../../tmp/graphql-java" value="3033741476635" />
+        <entry key="$PROJECT_DIR$/../../tmp/graphql-with-springboot-jpa-example" value="1516788569313" />
+        <entry key="$PROJECT_DIR$/../../tmp/rule-engine" value="3016316022000" />
+        <entry key="$PROJECT_DIR$/../../tmp/spring-cloud-turbine-example" value="4522625887000" />
+        <entry key="$PROJECT_DIR$/../../usermanagement" value="1482896681000" />
+        <entry key="$PROJECT_DIR$/../../usermanagement_sss" value="1481602366000" />
+        <entry key="$PROJECT_DIR$/../../work/activity" value="1486078110000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/activity-rest-app" value="1495425547000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/blog" value="3044322467496" />
+        <entry key="$PROJECT_DIR$/../../workspaces/fm-rest-app" value="1500429279000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/gs-spring-boot/complete" value="1491979741000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/kgraph" value="3042527005975" />
+        <entry key="$PROJECT_DIR$/../../workspaces/knowledge-graph" value="3044582526412" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/cms-sources/all" value="3044281823237" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/cms-sources/cms" value="12166588297945" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/cms-sources/cms/content" value="3040984594694" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/cms-sources/cms/gateway" value="3044265508199" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/cms-sources/cms/uaa" value="3040987678807" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/cms-sources/cms_new" value="3044240501372" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/creating-multi-project-builds" value="4547164513259" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/ethereumj" value="4552647298476" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/fm-rest-app" value="1516621410280" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/graphql-java" value="3033560201646" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/junit5-samples/junit5-gradle-consumer" value="1515656208743" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/ratelimit4j" value="12125225822321" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/ratelimitj" value="12124563455005" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/smartscity-ratelimit" value="10612716552513" />
+        <entry key="$PROJECT_DIR$/../../workspaces/relation-engine" value="3017844608000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/report-engine" value="3023493647084" />
+        <entry key="$PROJECT_DIR$/../../workspaces/rule-engine" value="3023895073503" />
+        <entry key="$PROJECT_DIR$/../../workspaces/settlement" value="1496776484000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/settlement 2" value="1496776484000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/smartscity-ratelimit" value="4560900659510" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/analysis-engine" value="3023504073839" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/fm-rest-app" value="1501748057000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/gateway" value="3011633550000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/jhipster-app" value="3007130334000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/jhipster-dashboard" value="3015383988000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/jhipster-gateway" value="3012971275000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/jhipster-uaa" value="3026084129900" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/jhipster-uaa-setup/app1" value="3013140988000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/jhipster-uaa-setup/app2" value="3013140988000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/jhipster-uaa-setup/gateway" value="3013140988000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/jhipster-uaa-setup/uaa" value="3013140990000" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/relation-engine" value="3024239769107" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/android-client" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/android-client1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/android-client2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../community/FS-Blog" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../conductor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../conductor/server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../deeplearning/xgboost-predictor-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/ZXingGenerator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/audit-log" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/custom-engine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/gate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/gateway-lend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/gateway_coo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/global-task" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/global-unique-id" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/global-unqueid" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/lenddata" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/lendsettle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/loan-engine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/match" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/message" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/mobile-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/operation-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/pc-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/seal-jhipster" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/seal-upload" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/task/global-task" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hujinshidai/uaa-lend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../jhipster/blog" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../jhipster/store" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/analysis-engine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/file-engine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/gateway2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/jhipster-gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/jhipster-uaa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/jhipster-uaa/jhipsteruaa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/jhipstergateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/jhipsteruaa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/puhui-consumer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/repair-relation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/rule-engine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/anti-fraud/uaa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/cms-sources/cms/gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/opensource/cms-sources/cms/uaa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/rule-engine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../workspaces/spring-cloud/fm-rest-app" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spark_2.0.0/pom.xml" />
+        <option value="$PROJECT_DIR$/spark_2.4.0/pom.xml" />
+        <option value="$PROJECT_DIR$/spark_2.0.0/src/main/java/com/smartscity/spark/RandomForestsKaggle.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/spark_2.4.0/src/main/java/com/smartscity/spark/RandomForestsKaggle.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spark_2.0.0" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spark_2.0.0" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spark_2.4.0" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spark_2.4.0" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.0.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.0.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.0.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.0.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.0.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.4.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.4.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.4.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.4.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Titanic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Titanic" type="462c0819:PsiDirectoryNode" />
+              <item name="spark_2.4.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.smartscity.spark" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="RandomForestsKaggle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smartscity.spark.RandomForestsKaggle" />
+      <module name="spark_2.4.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smartscity.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RandomForestsKaggle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55d6d29d-1090-423e-8780-b431868224f7" name="Default" comment="" />
+      <created>1541399479986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541399479986</updated>
+      <workItem from="1541399481585" duration="3067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3067000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="Tool Output" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" weight="0.21888413" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="ANTLR Preview" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32948717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="BPMNPalette" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spark_2.4.0/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark_2.0.0/src/main/java/com/smartscity/spark/RandomForestsKaggle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="64" />
+          <folding>
+            <element signature="method#processData#0;class#RandomForestsKaggle#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark_2.0.0/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="26" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="26" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark_2.4.0/src/main/java/com/smartscity/spark/RandomForestsKaggle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="116" column="55" selection-start-line="116" selection-start-column="55" selection-end-line="116" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#processData#0;class#RandomForestsKaggle#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-jupiter-api-5.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spark_2.4.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
